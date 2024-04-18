@@ -28,11 +28,11 @@ This Python script simulates dynamic network routing using the Distance Vector R
 
 The `input.txt` file should contain the initial network topology configuration. It should have the following format:
 
-<num_routers>
-<space-separated list of router names>
-<src> <dest> <cost>
-<src> <dest> <cost>
-...
+<num_routers>  
+<space-separated list of router names>  
+<src> <dest> <cost>  
+<src> <dest> <cost>  
+...  
 EOF
 
 Example:  
@@ -47,8 +47,8 @@ EOF
 
 The `change.txt` file contains dynamic changes in the network topology. It should have the following format:
 
-<src> <dest> <cost> <timestamp>
-<src> <dest> <cost> <timestamp>
+<src> <dest> <cost> <timestamp>  
+<src> <dest> <cost> <timestamp>  
 ...
 
 Example:  
