@@ -47,9 +47,9 @@ EOF
 
 The `change.txt` file contains dynamic changes in the network topology. It should have the following format:
 
-<src> <dest> <cost> <timestamp>  
-<src> <dest> <cost> <timestamp>  
-...
+`<src>` `<dest>` `<cost>` `<timestamp>`    
+`<src>` `<dest>` `<cost>` `<timestamp>`    
+`...`
 
 Example:  
 A B 5 10  
