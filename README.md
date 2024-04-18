@@ -37,16 +37,11 @@ EOF
 
 Example:
 3
-A B C
-A B 2
-B C 3
-C A 4
-EOF
-
 A B C  
 A B 2  
 B C 3  
 C A 4 
+EOF
 
 ### `change.txt`
 
