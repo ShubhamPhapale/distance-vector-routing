@@ -43,6 +43,11 @@ B C 3
 C A 4
 EOF
 
+A B C  
+A B 2  
+B C 3  
+C A 4 
+
 ### `change.txt`
 
 The `change.txt` file contains dynamic changes in the network topology. It should have the following format:
