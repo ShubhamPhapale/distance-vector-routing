@@ -12,10 +12,8 @@ This Python script simulates dynamic network routing using the Distance Vector R
 1. Clone this repository to your local machine by running:
 
     ```
-    git clone <[repository_url](https://github.com/ShubhamPhapale/distance-vector-routing/tree/main)>
+    git clone [<repository_url>](https://github.com/ShubhamPhapale/distance-vector-routing/tree/main)
     ```
-
-   Replace `<repository_url>` with the URL of this repository.
 
 2. Ensure you have Python 3.x installed.
 3. Install the required Python package by running:
