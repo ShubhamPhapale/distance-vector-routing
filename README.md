@@ -51,8 +51,8 @@ The `change.txt` file contains dynamic changes in the network topology. It shoul
 <src> <dest> <cost> <timestamp>
 ...
 
-Example:
-A B 5 10
+Example:  
+A B 5 10  
 B C 2 15
 
 ## Note
