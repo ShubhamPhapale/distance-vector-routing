@@ -35,8 +35,8 @@ The `input.txt` file should contain the initial network topology configuration. 
 ...
 EOF
 
-Example: 
-3 
+Example:  
+3  
 A B C  
 A B 2  
 B C 3  
