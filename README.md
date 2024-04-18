@@ -27,6 +27,11 @@ This Python script simulates dynamic network routing using the Distance Vector R
     python dvrDynamicChanges.py
     ```
 
+## Additional Resources
+
+- [YouTube Video](https://youtu.be/7Qn09daLSJY)
+- [My YouTube Channel](https://www.youtube.com/channel/UCzOmg9hOy3NBsScX--Nrb5Q)
+
 ## File Contents
 
 ### `input.txt`
